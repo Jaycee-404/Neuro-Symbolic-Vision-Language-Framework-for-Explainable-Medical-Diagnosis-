@@ -40,14 +40,12 @@ To develop a **clinically reliable and explainable diagnostic system** that over
 *Performance trends (accuracy / loss) generated during training*
 
 ![Training Graph](<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/d979c085-1fa3-47cc-af18-045700b058b8" />)
-(<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/50dea254-2c39-4010-9857-9c479cfd88cb" />)
 ---
 
 ### 3. Grad-CAM Output
 *Visual explanation highlighting critical regions influencing predictions*
 
-![GradCAM](<img width="1990" height="1082" alt="image" src="https://github.com/user-attachments/assets/4f424c3e-0abd-45eb-9344-df264857ac11" />
-)
+![GradCAM](<img width="1990" height="1082" alt="image" src="https://github.com/user-attachments/assets/4f424c3e-0abd-45eb-9344-df264857ac11" />)
 
 ---
 
